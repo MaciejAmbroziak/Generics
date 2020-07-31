@@ -1,0 +1,13 @@
+C:\Users\macie\source\repos\Generics\obj\Debug\netcoreapp3.1\Generics.csprojAssemblyReference.cache
+C:\Users\macie\source\repos\Generics\obj\Debug\netcoreapp3.1\Generics.AssemblyInfoInputs.cache
+C:\Users\macie\source\repos\Generics\obj\Debug\netcoreapp3.1\Generics.AssemblyInfo.cs
+C:\Users\macie\source\repos\Generics\obj\Debug\netcoreapp3.1\Generics.csproj.CoreCompileInputs.cache
+C:\Users\macie\source\repos\Generics\bin\Debug\netcoreapp3.1\Generics.exe
+C:\Users\macie\source\repos\Generics\bin\Debug\netcoreapp3.1\Generics.deps.json
+C:\Users\macie\source\repos\Generics\bin\Debug\netcoreapp3.1\Generics.runtimeconfig.json
+C:\Users\macie\source\repos\Generics\bin\Debug\netcoreapp3.1\Generics.runtimeconfig.dev.json
+C:\Users\macie\source\repos\Generics\bin\Debug\netcoreapp3.1\Generics.dll
+C:\Users\macie\source\repos\Generics\bin\Debug\netcoreapp3.1\Generics.pdb
+C:\Users\macie\source\repos\Generics\obj\Debug\netcoreapp3.1\Generics.dll
+C:\Users\macie\source\repos\Generics\obj\Debug\netcoreapp3.1\Generics.pdb
+C:\Users\macie\source\repos\Generics\obj\Debug\netcoreapp3.1\Generics.genruntimeconfig.cache
